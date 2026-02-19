@@ -40,7 +40,7 @@
         <!-- Header -->
         <header class="text-center">
           <h2 class="text-4xl font-extrabold text-slate-900 tracking-tight">
-            Bienvenido al Panel de Gestión
+            Bienvenido al Panel de Gestión de Marilyn
           </h2>
           <p class="mt-4 text-lg text-slate-600">
             Administra tu inventario y visualiza tus métricas en tiempo real.
